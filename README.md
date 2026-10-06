@@ -74,7 +74,7 @@ All figures come from the dashboard visuals. ROI is profit divided by budget, sh
 The raw dataset has 250 films. The dashboard keeps 200 of them. Films were removed when:
 
 * the budget was not in US dollars, so it could not be compared with the other budgets, or
-* a budget or box office value was missing (the raw file has 24 films with no budget and 4 with no worldwide box office).
+* a budget or box office value was missing
 
 Removing these 50 films keeps every budget, box office, profit and ROI figure on one consistent dollar basis.
 
