@@ -2,8 +2,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power_BI-View_Live_Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/07333ad0-8c1b-47ec-a2b4-24f4ccfcff29/7aacc7dc9b3ffe2eb8ca?ctid=96e7b82d-bfbf-4ce0-87c2-77981e8ab6b9&experience=power-bi)
 
-![Dashboard screenshot](imdb%20movies%20dadhboard.png)
-
 ---
 
 ## Project Overview
