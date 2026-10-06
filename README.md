@@ -105,7 +105,6 @@ Median ROI       = MEDIANX('ToP movies on imdb in 2026 Dataset', [ROI])
 * **ROI only uses the film's budget.** Marketing, distribution and the studio's share of ticket sales are not included.
 * **Each film has a single genre, country and production company.** Only the first one listed is kept. The data has 8 genres, and Horror and Mystery have only 3 films each, so their results are not reliable.
 * **Animation was removed on purpose.** It is a judgement call made during cleaning, so the results describe live-action films only.
-* **Currency was checked for most films, not all.** Budgets that were clearly in another currency were removed. Two films, Ran and Demon Slayer, were kept without a confirmed currency.
 * **Small groups.** NC-17 has 1 film, and 72 of 97 production companies have 1 film.
 * **Median and overall ROI differ.** G films have an overall ROI of about 546% but a median of 25%. The G group includes 1930s to 1960s classics that were labelled "Approved" and mapped to G, and a few big winners carry the total.
 * **Box office for old films looks incomplete.** Many films from before 1970 show a box office that is far below their budget (for example 12 Angry Men and On the Waterfront), while Gone with the Wind shows a very high return. ROI for classic films should be read with care.
